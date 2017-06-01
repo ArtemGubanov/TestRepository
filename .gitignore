@@ -24,3 +24,5 @@ hs_err_pid*
 
 # Intelige IDEA
 .idea/*
+.idea\*
+/.idea/description.html
